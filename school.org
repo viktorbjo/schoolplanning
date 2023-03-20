@@ -1,0 +1,62 @@
+#+title: Skolplanering för P4 2023
+
+* IE1332 Utveckling av elektronikprodukter
+** INFO
+
+** Schema
+*** Föreläsningar
+**** F1
+**** ESD2
+**** ESD3
+**** ESD4
+**** F2
+**** F3
+**** F4
+**** F5
+**** F6
+**** F7
+**** F8
+**** F9
+**** F10(ESD12)
+*** Laborationer
+**** L1
+**** L2A
+**** L2B
+**** L2C
+*** Seminarium
+**** S1
+**** S2
+**** S3A
+**** S3B
+** Examinationer [0/4]
+*** Laborationer
+1. Lödning av kretskort, hålmonterat och ytmonterat
+2. Konstruktion och tillverkning av kretskort
+
+
+- [ ] LAB1
+- [ ] LAB2
+
+*** Seminarium
+- [ ] Seminarie 1
+- [ ] Seminarie 2
+
+*** Litteraturuppgift
+  1. Skriftlig och muntligt redovisning
+  2. Skall bygga på minst 3 artiklar
+  3. Skall innebära kontakt med ett företag
+
+
+  [ ] Litteraturuppgift
+
+
+*** Tenta
+- [ ] Instuderingsfrågor
+
+* II1302 Projekt och projektmetoder
+** INFO
+
+** Schema
+
+** Examinationer
+
