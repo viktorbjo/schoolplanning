@@ -1,5 +1,6 @@
 #+title: Skolplanering för P4 2023
 
+
 * IE1332 Utveckling av elektronikprodukter
 ** INFO
 
@@ -31,16 +32,19 @@ SCHEDULED: <2023-05-02 tis 10:00>
 SCHEDULED: <2023-05-05 fre 13:00>
 **** F10(ESD12)-204
 SCHEDULED: <2023-05-08 mån 10:00>
+
 *** Laborationer
 **** L1-305
 **** L2A-204
 **** L2B-301
 **** L2C-305
 *** Seminarium
+
 **** S1-204
 **** S2-301
 **** S3A-204
 **** S3B-204
+
 ** Examinationer [0/4]
 *** Laborationer
 1. Lödning av kretskort, hålmonterat och ytmonterat
