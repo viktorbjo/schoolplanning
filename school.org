@@ -5,29 +5,42 @@
 
 ** Schema
 *** Föreläsningar
-**** F1
-**** ESD2
-**** ESD3
-**** ESD4
-**** F2
-**** F3
-**** F4
-**** F5
-**** F6
-**** F7
-**** F8
-**** F9
-**** F10(ESD12)
+**** F1-204
+SCHEDULED: <2023-03-20 mån 10:00>
+**** ESD2-204
+SCHEDULED: <2023-03-24 fre 13:00>
+**** ESD3-204
+SCHEDULED: <2023-03-27 mån 10:00>
+**** ESD4-204
+SCHEDULED: <2023-03-28 tis 13:00>
+**** F2-204
+SCHEDULED: <2023-03-29 ons 13:00>
+**** F3-204
+SCHEDULED: <2023-04-03 mån 13:00>
+**** F4-204
+SCHEDULED: <2023-04-19 ons 13:00>
+**** F5-301
+SCHEDULED: <2023-04-21 fre 13:00>
+**** F6-204
+SCHEDULED: <2023-04-24 mån 10:00>
+**** F7-204
+SCHEDULED: <2023-04-26 ons 13:00>
+**** F8-204
+SCHEDULED: <2023-05-02 tis 10:00>
+**** F9-301
+SCHEDULED: <2023-05-05 fre 13:00>
+**** F10(ESD12)-204
+SCHEDULED: <2023-05-08 mån 10:00>
 *** Laborationer
-**** L1
-**** L2A
-**** L2B
-**** L2C
+**** L1-305
+**** L2A-204
+**** L2B-301
+**** L2C-305
 *** Seminarium
-**** S1
-**** S2
-**** S3A
-**** S3B
+**** S1-204
+**** S2-301
+**** S3A-204
+**** S3B-204
 ** Examinationer [0/4]
 *** Laborationer
 1. Lödning av kretskort, hålmonterat och ytmonterat
