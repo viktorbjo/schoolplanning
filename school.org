@@ -5,45 +5,68 @@
 ** INFO
 
 ** Schema
-*** Föreläsningar
-**** F1-204
-SCHEDULED: <2023-03-20 mån 10:00>
-**** ESD2-204
+*** Föreläsningar [1/13] [7%]
+**** DONE F1-204
+CLOSED: [2023-03-20 mån 21:13] SCHEDULED: <2023-03-20 mån 10:00>
+**** TODO ESD2-204
 SCHEDULED: <2023-03-24 fre 13:00>
-**** ESD3-204
+**** TODO ESD3-204
 SCHEDULED: <2023-03-27 mån 10:00>
-**** ESD4-204
+**** TODO ESD4-204
 SCHEDULED: <2023-03-28 tis 13:00>
-**** F2-204
+**** TODO F2-204
 SCHEDULED: <2023-03-29 ons 13:00>
-**** F3-204
+**** TODO F3-204
 SCHEDULED: <2023-04-03 mån 13:00>
-**** F4-204
+**** TODO F4-204
 SCHEDULED: <2023-04-19 ons 13:00>
-**** F5-301
+**** TODO F5-301
 SCHEDULED: <2023-04-21 fre 13:00>
-**** F6-204
+**** TODO F6-204
 SCHEDULED: <2023-04-24 mån 10:00>
-**** F7-204
+**** TODO F7-204
 SCHEDULED: <2023-04-26 ons 13:00>
-**** F8-204
+**** TODO F8-204
 SCHEDULED: <2023-05-02 tis 10:00>
-**** F9-301
+**** TODO F9-301
 SCHEDULED: <2023-05-05 fre 13:00>
-**** F10(ESD12)-204
+**** TODO F10(ESD12)-204
 SCHEDULED: <2023-05-08 mån 10:00>
 
-*** Laborationer
-**** L1-305
-**** L2A-204
-**** L2B-301
-**** L2C-305
-*** Seminarium
+*** Laborationer [0/4]
+**** TODO L1-305
+SCHEDULED: <2023-03-22 ons 13:00>
+Lödning av två kretskort, hålmonterat och ytmonterat
 
-**** S1-204
-**** S2-301
-**** S3A-204
-**** S3B-204
+**** TODO L2A-204
+DEADLINE: <2023-04-17 mån 10:00>
+Inlämning av kretsschema
+
+**** TODO L2B-301
+DEADLINE: <2023-04-28 fre 13:00>
+Inlämning av PCB-design
+
+**** TODO L2C-305
+DEADLINE: <2023-05-15 mån 10:00>
+Inlämning av labbrapport
+
+*** Seminarium [0/4]
+**** TODO S1-204
+SCHEDULED: <2023-04-05 ons 13:00>
+Seminareövning 1 + val av litteraturuppgift
+
+**** TODO S2-301
+SCHEDULED: <2023-04-28 fre 13:00>
+Seminareövning 2
+
+**** TODO S3A-204
+DEADLINE: <2023-05-10 ons 10:00>
+Seminareövning 3, presentation av litteraturuppgift del 1
+
+**** TODO S3B-204
+DEADLINE: <2023-05-11 tor 10:00>
+Seminareövning 3, presentation av litteraturuppgift del 2
+
 
 ** Examinationer [0/4]
 *** Laborationer
@@ -72,7 +95,8 @@ SCHEDULED: <2023-05-08 mån 10:00>
 
 * II1302 Projekt och projektmetoder
 ** INFO
-
+*** TODO läs kth guide
+DEADLINE: <2023-03-24 fre>
 ** Schema
 
 ** Examinationer
