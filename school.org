@@ -33,9 +33,9 @@ SCHEDULED: <2023-05-05 fre 13:00>
 **** TODO F10(ESD12)-204
 SCHEDULED: <2023-05-08 mån 10:00>
 
-*** Laborationer [0/4]
-**** TODO L1-305
-SCHEDULED: <2023-03-22 ons 13:00>
+*** Laborationer [1/4]
+**** DONE L1-305
+CLOSED: [2023-03-22 ons 23:28] SCHEDULED: <2023-03-22 ons 13:00>
 Lödning av två kretskort, hålmonterat och ytmonterat
 
 **** TODO L2A-204
@@ -68,13 +68,13 @@ DEADLINE: <2023-05-11 tor 10:00>
 Seminareövning 3, presentation av litteraturuppgift del 2
 
 
-** Examinationer [0/4]
+** Examinationer 
 *** Laborationer
 1. Lödning av kretskort, hålmonterat och ytmonterat
 2. Konstruktion och tillverkning av kretskort
 
 
-- [ ] LAB1
+- [X] LAB1
 - [ ] LAB2
 
 *** Seminarium
