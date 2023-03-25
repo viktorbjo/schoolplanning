@@ -100,33 +100,57 @@ Seminareövning 3, presentation av litteraturuppgift del 2
 CLOSED: [2023-03-25 lör 21:09] DEADLINE: <2023-03-24 fre>
 
 ** Schema
-*** Föreläsningar
-**** TODO L1
-**** TODO L2
-**** TODO L3
-**** TODO L4
-**** TODO L5
-**** TODO L6
-**** TODO L7
-**** TODO L8
-**** TODO L9
+*** Föreläsningar [2/9][22%]
+**** DONE L1-salC
+CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-20 mån>
+**** DONE L2-salC
+CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-22 ons>
+**** TODO L3-salC
+SCHEDULED: <2023-03-27 mån>
+**** TODO L4-salC
+SCHEDULED: <2023-03-29 ons>
+**** TODO L5-salC
+SCHEDULED: <2023-04-03 mån>
+**** TODO L6-salC
+SCHEDULED: <2023-04-17 mån>
+**** TODO L7-salC
+SCHEDULED: <2023-04-24 mån>
+**** TODO L8-salC
+SCHEDULED: <2023-05-08 mån>
+**** TODO L9-salC
+SCHEDULED: <2023-05-22 mån>
 
-*** Seminarium
-**** TODO S1
-**** TODO S2
-**** TODO S3
-**** TODO S4
-**** TODO S5
-**** TODO S6
-**** TODO S7
-**** TODO S8
+*** Seminarium [3/8][37%]
+**** DONE S1-salB
+CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-23 tor>
+**** DONE S2-salB
+CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-23 tor>
+**** DONE S3-salB
+CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-24 fre>
+**** TODO S4-salB
+SCHEDULED: <2023-03-30 tor 09:00>
+**** TODO S5-salB
+SCHEDULED: <2023-03-30 tor 13:00>
+**** TODO S6-salB
+SCHEDULED: <2023-03-31 fre 09:00>
+**** TODO S7-salC
+SCHEDULED: <2023-04-06 tor 08:00>
+**** TODO S8-salC
+SCHEDULED: <2023-05-08 mån 08:00>
 
-*** DEMO
-**** TODO DEMO1
-**** TODO DEMO2
-**** TODO DEMO3
-**** TODO DEMO4
-**** TODO FINALDEMO
+*** DEMO [0/5][0%]
+**** TODO DEMO1-salC,208
+SCHEDULED: <2023-04-21 fre 08:00>
+**** TODO DEMO2-301,208
+SCHEDULED: <2023-04-28 fre 08:00>
+**** TODO DEMO3,salA,301
+SCHEDULED: <2023-05-05 fre 08:00>
+**** TODO DEMO4-210,208
+SCHEDULED: <2023-05-12 fre 08:00>
+**** TODO FINALDEMO-301,208
+SCHEDULED: <2023-05-16 tis 08:00>
+
+*** Projektarbete
 
 ** Examinationer
 
