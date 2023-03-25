@@ -5,11 +5,11 @@
 ** INFO
 
 ** Schema
-*** Föreläsningar [1/13] [7%]
+*** Föreläsningar [2/13] [15%]
 **** DONE F1-204
 CLOSED: [2023-03-20 mån 21:13] SCHEDULED: <2023-03-20 mån 10:00>
-**** TODO ESD2-204
-SCHEDULED: <2023-03-24 fre 13:00>
+**** DONE ESD2-204
+CLOSED: [2023-03-25 lör 21:09] SCHEDULED: <2023-03-24 fre 13:00>
 **** TODO ESD3-204
 SCHEDULED: <2023-03-27 mån 10:00>
 **** TODO ESD4-204
