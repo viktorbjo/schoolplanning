@@ -1,8 +1,9 @@
 #+title: Skolplanering för P4 2023
-
+#+OPTIONS: p:t
 
 * IE1332 Utveckling av elektronikprodukter
 ** INFO
+test
 
 ** Schema
 *** Föreläsningar [2/13] [15%]
@@ -87,7 +88,7 @@ Seminareövning 3, presentation av litteraturuppgift del 2
   3. Skall innebära kontakt med ett företag
 
 
-  [ ] Litteraturuppgift
+ - [ ] Litteraturuppgift
 
 
 *** Tenta
@@ -97,10 +98,35 @@ Seminareövning 3, presentation av litteraturuppgift del 2
 ** INFO
 *** DONE läs kth guide
 CLOSED: [2023-03-25 lör 21:09] DEADLINE: <2023-03-24 fre>
-** Schema
-*** Aktiviteter
 
-*** Projektschema
+** Schema
+*** Föreläsningar
+**** TODO L1
+**** TODO L2
+**** TODO L3
+**** TODO L4
+**** TODO L5
+**** TODO L6
+**** TODO L7
+**** TODO L8
+**** TODO L9
+
+*** Seminarium
+**** TODO S1
+**** TODO S2
+**** TODO S3
+**** TODO S4
+**** TODO S5
+**** TODO S6
+**** TODO S7
+**** TODO S8
+
+*** DEMO
+**** TODO DEMO1
+**** TODO DEMO2
+**** TODO DEMO3
+**** TODO DEMO4
+**** TODO FINALDEMO
 
 ** Examinationer
 
