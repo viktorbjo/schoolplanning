@@ -3,18 +3,17 @@
 
 * IE1332 Utveckling av elektronikprodukter
 ** INFO
-test
 
 ** Schema
-*** Föreläsningar [2/13] [15%]
+*** Föreläsningar [4/13] [30%]
 **** DONE F1-204
 CLOSED: [2023-03-20 mån 21:13] SCHEDULED: <2023-03-20 mån 10:00>
 **** DONE ESD2-204
 CLOSED: [2023-03-25 lör 21:09] SCHEDULED: <2023-03-24 fre 13:00>
-**** TODO ESD3-204
-SCHEDULED: <2023-03-27 mån 10:00>
-**** TODO ESD4-204
-SCHEDULED: <2023-03-28 tis 13:00>
+**** DONE ESD3-204
+CLOSED: [2023-03-28 tis 13:14] SCHEDULED: <2023-03-27 mån 10:00>
+**** DONE ESD4-204
+CLOSED: [2023-03-28 tis 13:14] SCHEDULED: <2023-03-28 tis 13:00>
 **** TODO F2-204
 SCHEDULED: <2023-03-29 ons 13:00>
 **** TODO F3-204
