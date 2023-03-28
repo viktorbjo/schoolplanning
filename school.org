@@ -100,13 +100,13 @@ Seminareövning 3, presentation av litteraturuppgift del 2
 CLOSED: [2023-03-25 lör 21:09] DEADLINE: <2023-03-24 fre>
 
 ** Schema
-*** Föreläsningar [2/9][22%]
+*** Föreläsningar [3/9][33%]
 **** DONE L1-salC
 CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-20 mån>
 **** DONE L2-salC
 CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-22 ons>
-**** TODO L3-salC
-SCHEDULED: <2023-03-27 mån>
+**** DONE L3-salC
+CLOSED: [2023-03-28 tis 11:32] SCHEDULED: <2023-03-27 mån>
 **** TODO L4-salC
 SCHEDULED: <2023-03-29 ons>
 **** TODO L5-salC
@@ -151,6 +151,38 @@ SCHEDULED: <2023-05-12 fre 08:00>
 SCHEDULED: <2023-05-16 tis 08:00>
 
 *** Projektarbete
+
+planering
+**** TODO PRO
+SCHEDULED: <2023-04-04 tis 08:00-12:00>
+**** TODO PRO
+SCHEDULED: <2023-04-05 ons 08:00-12:00>
+
+sprint1
+**** TODO PRO
+SCHEDULED: <2023-04-19 ons 08:00-12:00>
+**** TODO PRO
+SCHEDULED: <2023-04-20 tor 13:00-17:00>
+
+sprint2
+**** TODO PRO
+SCHEDULED: <2023-04-25 tis 08:00-12:00>
+**** TODO PRO
+SCHEDULED: <2023-04-26 ons 08:00-12:00>
+
+sprint3
+**** TODO PRO
+SCHEDULED: <2023-05-02 tis 08:00-10:00, 13:00-15:00>
+**** TODO PRO
+SCHEDULED: <2023-05-04 tor 13:00-17:00>
+
+sprint4
+**** TODO PRO
+SCHEDULED: <2023-05-08 mån 13:00-17:00>
+**** TODO PRO
+SCHEDULED: <2023-05-09 tis 13:00-17:00>
+**** TODO PRO
+SCHEDULED: <2023-05-11 tor 13:00-17:00>
 
 ** Examinationer
 
