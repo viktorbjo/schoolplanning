@@ -119,19 +119,19 @@ SCHEDULED: <2023-05-08 mån>
 **** TODO L9-salC
 SCHEDULED: <2023-05-22 mån>
 
-*** Seminarium [3/8][37%]
+*** Seminarium [6/8][75%]
 **** DONE S1-salB
 CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-23 tor>
 **** DONE S2-salB
 CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-23 tor>
 **** DONE S3-salB
 CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-24 fre>
-**** TODO S4-salB
-SCHEDULED: <2023-03-30 tor 09:00>
-**** TODO S5-salB
-SCHEDULED: <2023-03-30 tor 13:00>
-**** TODO S6-salB
-SCHEDULED: <2023-03-31 fre 09:00>
+**** DONE S4-salB
+CLOSED: [2023-03-30 tor 15:52] SCHEDULED: <2023-03-30 tor 09:00>
+**** DONE S5-salB
+CLOSED: [2023-03-30 tor 16:23] SCHEDULED: <2023-03-30 tor 13:00>
+**** DONE S6-salB
+CLOSED: [2023-04-02 sön 21:45] SCHEDULED: <2023-03-31 fre 09:00>
 **** TODO S7-salC
 SCHEDULED: <2023-04-06 tor 08:00>
 **** TODO S8-salC
@@ -192,7 +192,7 @@ SCHEDULED: <2023-05-11 tor 13:00-17:00>
 *** TODO TENTA
 SCHEDULED: <2023-06-02 fre 08:00>
 
-** Räkneuppgifter [2/11]
+** Räkneuppgifter [3/11]
 *** DONE 2
 CLOSED: [2023-03-25 lör 21:19]
 | Kapitel | Uppgifter           |
@@ -215,8 +215,8 @@ CLOSED: [2023-03-26 sön 20:31] DEADLINE: <2023-03-26 sön>
 |    1.10 | 2, 7, 14                 |
 
 
-*** TODO 4
-DEADLINE: <2023-04-02 sön>
+*** DONE 4
+CLOSED: [2023-04-02 sön 23:34] DEADLINE: <2023-04-02 sön>
 
 | Kapitel | Uppgifter                |
 |---------+--------------------------|
