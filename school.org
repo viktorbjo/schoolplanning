@@ -50,9 +50,9 @@ Inlämning av PCB-design
 DEADLINE: <2023-05-15 mån 10:00>
 Inlämning av labbrapport
 
-*** Seminarium [0/4]
-**** TODO S1-204
-SCHEDULED: <2023-04-05 ons 13:00>
+*** Seminarium [1/4]
+**** DONE S1-204
+CLOSED: [2023-04-13 tor 14:56] SCHEDULED: <2023-04-05 ons 13:00>
 Seminareövning 1 + val av litteraturuppgift
 
 **** TODO S2-301
@@ -108,7 +108,7 @@ CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-22 ons>
 CLOSED: [2023-03-28 tis 11:32] SCHEDULED: <2023-03-27 mån>
 **** TODO L4-salC (missed)
 SCHEDULED: <2023-03-29 ons>
-**** TODO L5-salC
+**** TODO L5-salC (missed)
 SCHEDULED: <2023-04-03 mån>
 **** TODO L6-salC
 SCHEDULED: <2023-04-17 mån>
@@ -119,7 +119,7 @@ SCHEDULED: <2023-05-08 mån>
 **** TODO L9-salC
 SCHEDULED: <2023-05-22 mån>
 
-*** Seminarium [6/8][75%]
+*** Seminarium [7/8][87%]
 **** DONE S1-salB
 CLOSED: [2023-03-25 lör 23:48] SCHEDULED: <2023-03-23 tor>
 **** DONE S2-salB
@@ -132,8 +132,8 @@ CLOSED: [2023-03-30 tor 15:52] SCHEDULED: <2023-03-30 tor 09:00>
 CLOSED: [2023-03-30 tor 16:23] SCHEDULED: <2023-03-30 tor 13:00>
 **** DONE S6-salB
 CLOSED: [2023-04-02 sön 21:45] SCHEDULED: <2023-03-31 fre 09:00>
-**** TODO S7-salC
-SCHEDULED: <2023-04-06 tor 08:00>
+**** DONE S7-salC
+CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-06 tor 08:00>
 **** TODO S8-salC
 SCHEDULED: <2023-05-08 mån 08:00>
 
@@ -152,10 +152,10 @@ SCHEDULED: <2023-05-16 tis 08:00>
 *** Projektarbete
 
 planering
-**** TODO PRO
-SCHEDULED: <2023-04-04 tis 08:00-12:00>
-**** TODO PRO
-SCHEDULED: <2023-04-05 ons 08:00-12:00>
+**** DONE PRO
+CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-04 tis 08:00-12:00>
+**** DONE PRO
+CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-05 ons 08:00-12:00>
 
 sprint1
 **** TODO PRO
@@ -192,7 +192,7 @@ SCHEDULED: <2023-05-11 tor 13:00-17:00>
 *** TODO TENTA
 SCHEDULED: <2023-06-02 fre 08:00>
 
-** Räkneuppgifter [3/11]
+** Räkneuppgifter [4/11]
 *** DONE 2
 CLOSED: [2023-03-25 lör 21:19]
 | Kapitel | Uppgifter           |
@@ -235,8 +235,8 @@ CLOSED: [2023-04-02 sön 23:34] DEADLINE: <2023-04-02 sön>
 |     2.9 | 1, 2, 4, 7, 9       |
 
 
-*** TODO 5
-DEADLINE: <2023-04-09 sön>
+*** DONE 5
+CLOSED: [2023-04-11 tis 14:54] DEADLINE: <2023-04-09 sön>
 
 | Kapitel | Uppgifter           |
 |---------+---------------------|
