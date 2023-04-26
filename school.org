@@ -5,7 +5,7 @@
 ** INFO
 
 ** Schema
-*** Föreläsningar [5/13] [38%]
+*** Föreläsningar [6/13] [46%]
 **** DONE F1-204
 CLOSED: [2023-03-20 mån 21:13] SCHEDULED: <2023-03-20 mån 10:00>
 **** DONE ESD2-204
@@ -24,8 +24,8 @@ SCHEDULED: <2023-04-19 ons 13:00>
 SCHEDULED: <2023-04-21 fre 13:00>
 **** TODO F6-204
 SCHEDULED: <2023-04-24 mån 10:00>
-**** TODO F7-204
-SCHEDULED: <2023-04-26 ons 13:00>
+**** DONE F7-204
+CLOSED: [2023-04-26 ons 14:14] SCHEDULED: <2023-04-26 ons 13:00>
 **** TODO F8-204
 SCHEDULED: <2023-05-02 tis 10:00>
 **** TODO F9-301
@@ -33,13 +33,13 @@ SCHEDULED: <2023-05-05 fre 13:00>
 **** TODO F10(ESD12)-204
 SCHEDULED: <2023-05-08 mån 10:00>
 
-*** Laborationer [1/4]
+*** Laborationer [2/4]
 **** DONE L1-305
 CLOSED: [2023-03-22 ons 23:28] SCHEDULED: <2023-03-22 ons 13:00>
 Lödning av två kretskort, hålmonterat och ytmonterat
 
-**** TODO L2A-204
-DEADLINE: <2023-04-17 mån 10:00>
+**** DONE L2A-204
+CLOSED: [2023-04-26 ons 14:14] DEADLINE: <2023-04-17 mån 10:00>
 Inlämning av kretsschema
 
 **** TODO L2B-301
@@ -78,7 +78,7 @@ Seminareövning 3, presentation av litteraturuppgift del 2
 - [ ] LAB2
 
 *** Seminarium
-- [ ] Seminarie 1
+- [X] Seminarie 1
 - [ ] Seminarie 2
 
 *** Litteraturuppgift
@@ -137,9 +137,9 @@ CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-06 tor 08:00>
 **** TODO S8-salC
 SCHEDULED: <2023-05-08 mån 08:00>
 
-*** DEMO [0/5][0%]
-**** TODO DEMO1-salC,208
-SCHEDULED: <2023-04-21 fre 08:00>
+*** DEMO [1/5][20%]
+**** DONE DEMO1-salC,208
+CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-21 fre 08:00>
 **** TODO DEMO2-301,208
 SCHEDULED: <2023-04-28 fre 08:00>
 **** TODO DEMO3,salA,301
@@ -158,16 +158,16 @@ CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-04 tis 08:00-12:00>
 CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-05 ons 08:00-12:00>
 
 sprint1
-**** TODO PRO
-SCHEDULED: <2023-04-19 ons 08:00-12:00>
-**** TODO PRO
-SCHEDULED: <2023-04-20 tor 13:00-17:00>
+**** DONE PRO
+CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-19 ons 08:00-12:00>
+**** DONE PRO
+CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-20 tor 13:00-17:00>
 
 sprint2
-**** TODO PRO
-SCHEDULED: <2023-04-25 tis 08:00-12:00>
-**** TODO PRO
-SCHEDULED: <2023-04-26 ons 08:00-12:00>
+**** DONE PRO
+CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-25 tis 08:00-12:00>
+**** DONE PRO
+CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-26 ons 08:00-12:00>
 
 sprint3
 **** TODO PRO
