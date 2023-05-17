@@ -33,7 +33,7 @@ SCHEDULED: <2023-05-05 fre 13:00>
 **** TODO F10(ESD12)-204
 SCHEDULED: <2023-05-08 mån 10:00>
 
-*** Laborationer [2/4]
+*** Laborationer [3/4]
 **** DONE L1-305
 CLOSED: [2023-03-22 ons 23:28] SCHEDULED: <2023-03-22 ons 13:00>
 Lödning av två kretskort, hålmonterat och ytmonterat
@@ -42,29 +42,29 @@ Lödning av två kretskort, hålmonterat och ytmonterat
 CLOSED: [2023-04-26 ons 14:14] DEADLINE: <2023-04-17 mån 10:00>
 Inlämning av kretsschema
 
-**** TODO L2B-301
-DEADLINE: <2023-04-28 fre 13:00>
+**** DONE L2B-301
+CLOSED: [2023-05-17 ons 10:10] DEADLINE: <2023-04-28 fre 13:00>
 Inlämning av PCB-design
 
 **** TODO L2C-305
 DEADLINE: <2023-05-15 mån 10:00>
 Inlämning av labbrapport
 
-*** Seminarium [1/4]
+*** Seminarium [4/4]
 **** DONE S1-204
 CLOSED: [2023-04-13 tor 14:56] SCHEDULED: <2023-04-05 ons 13:00>
 Seminareövning 1 + val av litteraturuppgift
 
-**** TODO S2-301
-SCHEDULED: <2023-04-28 fre 13:00>
+**** DONE S2-301
+CLOSED: [2023-05-17 ons 10:10] SCHEDULED: <2023-04-28 fre 13:00>
 Seminareövning 2
 
-**** TODO S3A-204
-DEADLINE: <2023-05-10 ons 10:00>
+**** DONE S3A-204
+CLOSED: [2023-05-17 ons 10:11] DEADLINE: <2023-05-10 ons 10:00>
 Seminareövning 3, presentation av litteraturuppgift del 1
 
-**** TODO S3B-204
-DEADLINE: <2023-05-11 tor 10:00>
+**** DONE S3B-204
+CLOSED: [2023-05-17 ons 10:11] DEADLINE: <2023-05-11 tor 10:00>
 Seminareövning 3, presentation av litteraturuppgift del 2
 
 
@@ -79,7 +79,8 @@ Seminareövning 3, presentation av litteraturuppgift del 2
 
 *** Seminarium
 - [X] Seminarie 1
-- [ ] Seminarie 2
+- [X] Seminarie 2
+- [ ] Seminarie 3
 
 *** Litteraturuppgift
   1. Skriftlig och muntligt redovisning
@@ -137,17 +138,17 @@ CLOSED: [2023-04-13 tor 14:55] SCHEDULED: <2023-04-06 tor 08:00>
 **** TODO S8-salC
 SCHEDULED: <2023-05-08 mån 08:00>
 
-*** DEMO [1/5][20%]
+*** DEMO [5/5][100%]
 **** DONE DEMO1-salC,208
 CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-21 fre 08:00>
-**** TODO DEMO2-301,208
-SCHEDULED: <2023-04-28 fre 08:00>
-**** TODO DEMO3,salA,301
-SCHEDULED: <2023-05-05 fre 08:00>
-**** TODO DEMO4-210,208
-SCHEDULED: <2023-05-12 fre 08:00>
-**** TODO FINALDEMO-301,208
-SCHEDULED: <2023-05-16 tis 08:00>
+**** DONE DEMO2-301,208
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-04-28 fre 08:00>
+**** DONE DEMO3,salA,301
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-05 fre 08:00>
+**** DONE DEMO4-210,208
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-12 fre 08:00>
+**** DONE FINALDEMO-301,208
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-16 tis 08:00>
 
 *** Projektarbete
 
@@ -170,18 +171,18 @@ CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-25 tis 08:00-12:00>
 CLOSED: [2023-04-26 ons 14:15] SCHEDULED: <2023-04-26 ons 08:00-12:00>
 
 sprint3
-**** TODO PRO
-SCHEDULED: <2023-05-02 tis 08:00-10:00, 13:00-15:00>
-**** TODO PRO
-SCHEDULED: <2023-05-04 tor 13:00-17:00>
+**** DONE PRO
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-02 tis 08:00-10:00, 13:00-15:00>
+**** DONE PRO
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-04 tor 13:00-17:00>
 
 sprint4
-**** TODO PRO
-SCHEDULED: <2023-05-08 mån 13:00-17:00>
-**** TODO PRO
-SCHEDULED: <2023-05-09 tis 13:00-17:00>
-**** TODO PRO
-SCHEDULED: <2023-05-11 tor 13:00-17:00>
+**** DONE PRO
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-08 mån 13:00-17:00>
+**** DONE PRO
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-09 tis 13:00-17:00>
+**** DONE PRO
+CLOSED: [2023-05-17 ons 10:09] SCHEDULED: <2023-05-11 tor 13:00-17:00>
 
 ** Examinationer
 
@@ -192,7 +193,7 @@ SCHEDULED: <2023-05-11 tor 13:00-17:00>
 *** TODO TENTA
 SCHEDULED: <2023-06-02 fre 08:00>
 
-** Räkneuppgifter [4/11]
+** Räkneuppgifter [7/11]
 *** DONE 2
 CLOSED: [2023-03-25 lör 21:19]
 | Kapitel | Uppgifter           |
@@ -253,8 +254,8 @@ CLOSED: [2023-04-11 tis 14:54] DEADLINE: <2023-04-09 sön>
 |     4.4 | 1, 4, 7, 10, 13, 21, 29 |
 
 
-*** TODO 6
-DEADLINE: <2023-04-16 sön>
+*** DONE 6
+CLOSED: [2023-05-17 ons 10:08] DEADLINE: <2023-04-17 mån>
 | Kapitel | Uppgifter       |
 |---------+-----------------|
 |     4.5 | 1, 4, 9, 12, 21 |
@@ -272,8 +273,8 @@ DEADLINE: <2023-04-16 sön>
 |     5.4 | 1, 2, 5, 10         |
 
 
-*** TODO 7
-DEADLINE: <2023-04-23 sön>
+*** DONE 7
+CLOSED: [2023-05-17 ons 10:09] DEADLINE: <2023-04-23 sön>
 
 | Kapitel | Uppgifter       |
 |---------+-----------------|
@@ -289,8 +290,8 @@ DEADLINE: <2023-04-23 sön>
 |     6.3 | 2, 4, 11, 20       |
 |     6.4 | 2, 4, 8, 10, 13    |
 
-*** TODO 8
-DEADLINE: <2023-04-30 sön>
+*** DONE 8
+CLOSED: [2023-05-17 ons 10:09] DEADLINE: <2023-04-30 sön>
 
 | Kapitel | Uppgifter       |
 |---------+-----------------|
