@@ -80,7 +80,7 @@ Seminareövning 3, presentation av litteraturuppgift del 2
 *** Seminarium
 - [X] Seminarie 1
 - [X] Seminarie 2
-- [ ] Seminarie 3
+- [X] Seminarie 3
 
 *** Litteraturuppgift
   1. Skriftlig och muntligt redovisning
@@ -88,7 +88,7 @@ Seminareövning 3, presentation av litteraturuppgift del 2
   3. Skall innebära kontakt med ett företag
 
 
- - [ ] Litteraturuppgift
+ - [X] Litteraturuppgift
 
 
 *** Tenta
